@@ -622,7 +622,7 @@ for (let key of diceMap.keys())
     }
 }
 console.log("The minimum repeated number: "+min_key); 
-console.log("-------------------------------------------------------");  */
+console.log("-------------------------------------------------------");  
 
 /* 2. Write a Program to generate a birth month of 50 individuals 
 between the year 92 & 93. Find all the individuals having birthdays 
